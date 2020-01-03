@@ -1,4 +1,4 @@
-# SpringSecurityEntiryPointAndRoleBasedLogin
+# EntiryPointAndRoleBasedLogin
 
 This application is all about using entry point and role based login in Spring Security 4.
 Spring Security handles this automatic triggering of the authentication process with the concept of an Entry Point – this is a required part of the configuration, and can be injected via the entry-point-ref attribute of the security:http  element.
@@ -7,4 +7,4 @@ Spring Security handles success handler & failure handler based on authenticatio
 # Build
 
 mvn clean install
-# EntiryPointAndRoleBasedLogin
+
