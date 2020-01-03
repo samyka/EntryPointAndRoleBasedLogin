@@ -8,4 +8,4 @@ Spring Security handles success handler & failure handler based on authenticatio
 
 mvn clean install
 
-![menu](https://github.com/samyka/EntryPointAndRoleBasedLogin/blob/master/screenshot/login.png?raw=true)
+![menu](https://github.com/samyka/EntiryPointAndRoleBasedLogin/blob/master/screenshot/login.png?raw=true)
